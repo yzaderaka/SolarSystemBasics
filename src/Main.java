@@ -8,7 +8,7 @@ public class Main {
 
         featureSun fSun=new featureSun();
         fSun.temperature="1.233445544";
-        fSun.radius=1.3334455666;
+        fSun.radius="1.3334455666";
         fSun.color="green";
     }
 }
